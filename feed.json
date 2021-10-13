@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Raylene&#x27;s Website",
+    "description": "",
+    "home_page_url": "https://raylenegf.github.io/bug-free-spork",
+    "feed_url": "https://raylenegf.github.io/bug-free-spork/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ray!"
+    },
+    "items": [
+    ]
+}

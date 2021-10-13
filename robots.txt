@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://raylenegf.github.io/bug-free-spork/sitemap.xml
